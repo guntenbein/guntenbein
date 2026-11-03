@@ -8,12 +8,12 @@ Also on [LinkedIn](https://www.linkedin.com/in/aliaksei-novikau/) and [Medium](h
 
 ## Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [Как празднуют Хэллоуин в Польше](https://anovikau.com/ru/writing/halloween-in-poland/) · Nov 1, 2026 
+<!-- BLOG-POST-LIST:START -->- [The pricing algorithm that trains on its own output](https://anovikau.com/writing/pricing-feedback-loop/) · Nov 2, 2026 
+- [Как празднуют Хэллоуин в Польше](https://anovikau.com/ru/writing/halloween-in-poland/) · Nov 1, 2026 
 - [“Email sent.” What my AI co-writer made up](https://anovikau.com/writing/email-sent/) · Oct 29, 2026 
 - [Singing bowls: an hour in which the mind stops](https://anovikau.com/writing/singing-bowls/) · Oct 28, 2026 
 - [13 cassettes and a program that listens for me](https://anovikau.com/writing/tape-archive/) · Oct 25, 2026 
 - [Our users moved to Sweden overnight](https://anovikau.com/writing/users-moved-to-sweden-overnight/) · Oct 22, 2026 
-- [Cookieless isn&#39;t anonymous](https://anovikau.com/writing/cookieless-is-not-anonymous/) · Oct 19, 2026 
 <!-- BLOG-POST-LIST:END -->
 
 ## Selected projects
