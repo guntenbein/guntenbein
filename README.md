@@ -8,12 +8,12 @@ Also on [LinkedIn](https://www.linkedin.com/in/aliaksei-novikau/) and [Medium](h
 
 ## Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [Почему я говорю искусственному интеллекту «спасибо»](https://anovikau.com/ru/writing/why-i-thank-ai/) · Nov 7, 2026 
+<!-- BLOG-POST-LIST:START -->- [A top OCR model invented the names in my test lease](https://anovikau.com/writing/xiaomi-ocr/) · Nov 9, 2026 
+- [Почему я говорю искусственному интеллекту «спасибо»](https://anovikau.com/ru/writing/why-i-thank-ai/) · Nov 7, 2026 
 - [Google rejected my tax certificate and wouldn’t say why](https://anovikau.com/writing/google-play-tax-certificate/) · Nov 5, 2026 
 - [Every layer must time out before the layer above it](https://anovikau.com/writing/layered-timeouts/) · Nov 3, 2026 
 - [The pricing algorithm that trains on its own output](https://anovikau.com/writing/pricing-feedback-loop/) · Nov 2, 2026 
 - [Как празднуют Хэллоуин в Польше](https://anovikau.com/ru/writing/halloween-in-poland/) · Nov 1, 2026 
-- [“Email sent.” What my AI co-writer made up](https://anovikau.com/writing/email-sent/) · Oct 29, 2026 
 <!-- BLOG-POST-LIST:END -->
 
 ## Selected projects
