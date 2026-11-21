@@ -8,12 +8,12 @@ Also on [LinkedIn](https://www.linkedin.com/in/aliaksei-novikau/) and [Medium](h
 
 ## Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [Was my GitHub hit by wfx-loot? A 15-minute read-only check](https://anovikau.com/writing/wfx-loot-check/) · Nov 17, 2026 
+<!-- BLOG-POST-LIST:START -->- [Visitors or countries: the price of analytics without cookies](https://anovikau.com/writing/visitors-or-countries/) · Nov 20, 2026 
+- [Was my GitHub hit by wfx-loot? A 15-minute read-only check](https://anovikau.com/writing/wfx-loot-check/) · Nov 17, 2026 
 - [«Раненый Чипполино»: репетиции в школьной столовой и «Журавли»](https://anovikau.com/ru/writing/zhuravli/) · Nov 16, 2026 
 - [Найденная гитара Tenson](https://anovikau.com/ru/writing/found-guitar/) · Nov 11, 2026 
 - [A top OCR model invented the names in my test lease](https://anovikau.com/writing/xiaomi-ocr/) · Nov 9, 2026 
 - [Почему я говорю искусственному интеллекту «спасибо»](https://anovikau.com/ru/writing/why-i-thank-ai/) · Nov 7, 2026 
-- [Google rejected my tax certificate and wouldn’t say why](https://anovikau.com/writing/google-play-tax-certificate/) · Nov 5, 2026 
 <!-- BLOG-POST-LIST:END -->
 
 ## Selected projects
