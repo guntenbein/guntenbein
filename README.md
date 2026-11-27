@@ -8,12 +8,12 @@ Also on [LinkedIn](https://www.linkedin.com/in/aliaksei-novikau/) and [Medium](h
 
 ## Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [23 days, 3,947 facts, $2,554: a knowledge base of my life, built with AI agents](https://anovikau.com/writing/life-knowledge-base/) · Nov 25, 2026 
+<!-- BLOG-POST-LIST:START -->- [4.9 s to 3 ms: our search index was doing a table&#39;s job](https://anovikau.com/writing/search-index-as-table/) · Nov 26, 2026 
+- [23 days, 3,947 facts, $2,554: a knowledge base of my life, built with AI agents](https://anovikau.com/writing/life-knowledge-base/) · Nov 25, 2026 
 - [«Кола»: первый круг пройден](https://anovikau.com/ru/writing/kola-first-circle/) · Nov 25, 2026 
 - [Как мы с Джонни чинили компрессор](https://anovikau.com/ru/writing/compressor-repair/) · Nov 24, 2026 
 - [Visitors or countries: the price of analytics without cookies](https://anovikau.com/writing/visitors-or-countries/) · Nov 20, 2026 
 - [Was my GitHub hit by wfx-loot? A 15-minute read-only check](https://anovikau.com/writing/wfx-loot-check/) · Nov 17, 2026 
-- [«Раненый Чипполино»: репетиции в школьной столовой и «Журавли»](https://anovikau.com/ru/writing/zhuravli/) · Nov 16, 2026 
 <!-- BLOG-POST-LIST:END -->
 
 ## Selected projects
